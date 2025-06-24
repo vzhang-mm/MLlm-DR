@@ -29,7 +29,7 @@ pretraining LLMs [LLaMA-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama
 * Make sure the CMDC dataset is correctly preprocessed and placed in `./data/CMDC`.
 * Output results (predictions and metrics) will be saved under `./result`.
   You can download the preprocessed CMDC and E-DAIC-WOZ datasets from the following link:
-  **[Download Link](https://pan.baidu.com/s/1IGo1cC9IjR2iTyYAOtyS8A?pwd=nw2t)**, code: nw2t 
+  **[Download Link](https://pan.baidu.com/s/1MNbixk-argpWKINJPUnBNw)**, code: 6b18
 * After downloading, place them under:
 
   ```
